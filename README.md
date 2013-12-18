@@ -1,4 +1,5 @@
-default-template-nw
-===================
+# NuevaWeb framework
 
-This is the First NuevaWeb Framework for a happy &amp; fast developing (HTML5 + Wordpress). Hope you enjoy it, feel free to make any suggestions.
+This is the First NuevaWeb Framework for a Happy & fast developing.
+
+Hope you enjoy it, feel free to make any suggestions.
